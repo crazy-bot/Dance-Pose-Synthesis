@@ -40,11 +40,11 @@ Output frames:
 
 #### To be Continued...
 
-**Audio guided pose generation
+**Audio guided pose generation**
 
-**Sequential pose generation
+**Sequential pose generation**
 
-**Overall dance choreography
+**Overall dance choreography**
 
 
 
